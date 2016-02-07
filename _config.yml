@@ -1,0 +1,28 @@
+name: LGL
+favicon: null
+layout_spectrum: 0.30923098465427756
+typography_spectrum: 0.5629213587380946
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.17696444992907345
+  lightness: 0.6771787866018713
+  saturation: 0.9730914537794888
+  rhythmicContrast: 0.3435244185384363
+purpose: []
